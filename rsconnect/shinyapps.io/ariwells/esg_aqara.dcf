@@ -1,0 +1,14 @@
+name: esg_aqara
+title: esg_aqara
+username:
+account: ariwells
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 8266100
+bundleId: 6827456
+url: https://ariwells.shinyapps.io/esg_aqara/
+when: 1675942769.49764
+lastSyncTime: 1675942769.49768
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: 20230206.xlsx|ESG-Pilot-Project.Rmd|excel_reader.R|preprocessing.R|README.md|transform.R
